@@ -1,8 +1,19 @@
 ---
 title: Landing Page Test
 template: blocks
-date: 2018-04-18 20:00:09 -1100
+date: 2018-04-19 07:00:09 +0000
 type: page
+blocks:
+- template: hero
+  headline: Just another page
+  textline: ahehehehehehe
+  ctas:
+  - textline: hmm
+    button: true
+    permalink: waw
+  video:
+    fallbackVisual: "/uploads/borisfxdotcom.png"
+layout: ''
 draft: true
 
 ---
