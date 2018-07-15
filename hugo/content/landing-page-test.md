@@ -12,6 +12,5 @@ blocks:
   visual:
     permalink: "/uploads/yieldmodotcom.png"
 layout: ''
-draft: true
 
 ---
