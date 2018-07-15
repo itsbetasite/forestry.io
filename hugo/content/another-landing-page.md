@@ -10,6 +10,14 @@ blocks:
   branch_name: master
   fork_name: aheee
   engine_version: "???"
+- template: hero
+  headline: The Greatest Headline
+  textline: Your textline here
+  ctas:
+  - permalink: facebook.com
+    textline: facebook
+  video:
+    fallbackVisual: "/uploads/2018/03/up_running_w_hugo_II_1 2.png"
 draft: true
 
 ---
